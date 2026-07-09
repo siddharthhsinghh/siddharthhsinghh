@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently pursuing Btech in Computer Science and Enginnering<br>Seeking internship and job oppurtunities<br>Intereseted in data driven decision making and artificial intelligence
+# 👋 Hi, I'm Siddharth Singh
+
+Computer Science graduate (B.Tech, MIT ADT University) building end-to-end ML 
+projects in classification and time series forecasting. Actively looking for 
+Data Analyst / ML Engineer / Data Science roles.
+
+🌱 Recent work: Random Forest disease prediction (71% accuracy on 14K samples), 
+   CNN+GAN hybrid image classifier on CIFAR-10, Ridge Regression stock forecasting 
+   with walk-forward validation
+📫 Reach me: [LinkedIn](https://linkedin.com/in/siddharthsingh-data)
 
 
 # 💻 Tech Stack:
