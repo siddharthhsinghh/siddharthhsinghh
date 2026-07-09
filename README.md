@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Siddharth Singh
+👋 Hi, I'm Siddharth Singh
 
 Computer Science graduate (B.Tech, MIT ADT University) building end-to-end ML 
 projects in classification and time series forecasting. Actively looking for 
